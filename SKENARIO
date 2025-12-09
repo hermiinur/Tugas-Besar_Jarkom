@@ -1,0 +1,22 @@
+SKEMA TUGAS BESAR RECON
+
+1. Menentukan target (PERTAMINA)
+2. Melakukan Passive Recon
+   - Mencari domain
+   - Mencari subdomain melalui crt.sh
+   - Mengambil teknologi dari Wappalyzer
+   - Menemukan format email
+   - Mengumpulkan informasi umum
+3. Melakukan Active Recon
+   - Ping
+   - ifconfig untuk cek IP
+   - Nmap host discovery
+   - Nmap port scanning
+   - Nmap service/version detection
+4. Mengumpulkan screenshot
+5. Menyusun laporan (Passive & Active Recon)
+6. Membuat tabel hasil (Passive & Active)
+7. Membuat video dokumentasi
+8. Upload video ke YouTube
+9. Upload file ke GitHub
+10. Submit link di Classroom
